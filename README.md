@@ -14,8 +14,8 @@ A clean, modern Flutter-based Task Management app UI that helps users stay organ
 |----------------------------------------|---------------------------------|--------------------------------------------|
 | ![Add Task](./assets/home/addtask.jpg) | ![Edit](./assets/home/edit.jpg) | ![Task Added](./assets/home/addedtask.jpg) | 
 
-| Notifications                                    |
-|--------------------------------------------------|
+| Notifications                                    | Notifications                             |
+|--------------------------------------------------|-------------------------------------------|
 | ![Notifications](./assets/home/notification.jpg) | ![Notifications](./assets/home/notif.jpg) |
 
 ---
